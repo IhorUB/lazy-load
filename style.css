@@ -1,0 +1,10 @@
+.section_img{
+    background-color: beige;
+}
+
+.section_img img {
+    min-height: 300px;
+}
+.section_map {
+    background-color: aliceblue;
+}
